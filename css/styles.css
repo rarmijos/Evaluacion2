@@ -1,0 +1,11 @@
+.contacto{
+    padding: 20px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    margin-top: 25px;
+}
+
+.comentarios{
+    width: 450px;
+    height: 200px;
+}
